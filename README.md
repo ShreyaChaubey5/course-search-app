@@ -25,22 +25,3 @@ A full-stack web application for searching and exploring educational courses. Bu
 
 ---
 
-## 🗂️ Project Structure
-
-course-search-app/
-│
-├── backend/ # Spring Boot app
-│ ├── controller/ # REST API controllers
-│ ├── service/ # Business logic layer
-│ ├── config/ # CORS setup, Elasticsearch config
-│ └── resources/
-│ └── application.properties
-│
-├── frontend/ # React app
-│ ├── components/ # UI components (HeroSection, Results)
-│ ├── api/ # searchApi.js
-│ ├── App.jsx # Main component
-│ └── assets/ # Images used in UI
-│
-├── bulk-courses.ndjson # Pre-loaded course data for Elasticsearch
-└── README.md # Project overview
