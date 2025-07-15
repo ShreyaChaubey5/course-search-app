@@ -1,0 +1,9 @@
+
+{ "index": { "_index": "courses" } }
+{ "id": 1, "title": "Summer robotics camp: fun projects with auto arduino, Tink...", "description": "Build circuits & smart projects like alarms, weather stations, etc", "level": "Intermediate", "language": "English", "classes": "4 classes", "age": "7-10 yrs", "duration": "45", "price": "299", "learners": "200+", "rating": "4.9", "image": "/assets/sci-fi.avif" }
+{ "index": { "_index": "courses" } }
+{ "id": 2, "title": "AI for Kids: Smart Projects Using Scratch & Chatbots", "description": "Create chatbots & mini AI apps with fun drag-n-drop tools", "level": "Beginner", "language": "English", "classes": "5 classes", "age": "10-15 yrs", "duration": "60", "price": "499", "learners": "300+", "rating": "4.8", "image": "/assets/student7sci.jpg" }
+{ "index": { "_index": "courses" } }
+{ "id": 3, "title": "Creative Coding: Learn to Code Games & Stories", "description": "Let kids explore programming by building interactive games", "level": "Beginner", "language": "English", "classes": "6 classes", "age": "8–12 yrs", "duration": "50", "price": "399", "learners": "250+", "rating": "4.7", "image": "/assets/student8sci.jpg" }
+{ "index": { "_index": "courses" } }
+{ "id": 4, "title": "Brain Boosters: Critical Thinking & Logic Games", "description": "Sharpen your logic and problem-solving with fun puzzles & riddles", "level": "Beginner", "language": "English", "classes": "5 classes", "age": "9–13 yrs", "duration": "40", "price": "349", "learners": "180+", "rating": "4.8", "image": "/assets/students3.avif" }

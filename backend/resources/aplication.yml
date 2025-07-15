@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: course-search-app
+  data:
+    elasticsearch:
+      uris: http://localhost:9200
+      repositories:
+        enabled: true

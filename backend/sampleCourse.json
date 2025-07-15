@@ -1,0 +1,38 @@
+[
+  {
+    "id": "course1",
+    "title": "Summer Robotics Camp",
+    "description": "Learn robotics and programming with fun Arduino projects.",
+    "category": "STEM",
+    "type": "Live",
+    "gradeRange": "6-8",
+    "minAge": 10,
+    "maxAge": 14,
+    "price": 149.99,
+    "nextSessionDate": "2025-08-01T10:00:00Z"
+  },
+  {
+    "id": "course2",
+    "title": "Beginner Piano Lessons",
+    "description": "Interactive music lessons for beginners learning piano.",
+    "category": "Music",
+    "type": "Self-paced",
+    "gradeRange": "4-7",
+    "minAge": 8,
+    "maxAge": 12,
+    "price": 99.0,
+    "nextSessionDate": "2025-07-20T09:00:00Z"
+  },
+  {
+    "id": "course3",
+    "title": "Creative Writing Workshop",
+    "description": "Enhance your storytelling and writing skills.",
+    "category": "English",
+    "type": "Live",
+    "gradeRange": "8-10",
+    "minAge": 13,
+    "maxAge": 16,
+    "price": 119.5,
+    "nextSessionDate": "2025-07-25T14:00:00Z"
+  }
+]
